@@ -1,5 +1,6 @@
 ## Hi there 👋
 My Name Is Danish Mahmood and I'm a Level 4 Cyber Security Student At Leeds Beckett University 
+I Study A Variety Of Modules Such As: Digital Forensics, Computer Programming and Ethical Hacking And Much More.
 
 <!--
 **danishmahmood07/danishmahmood07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
